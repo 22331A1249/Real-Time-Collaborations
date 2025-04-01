@@ -1,3 +1,19 @@
+# Real-Time-Collaborations
+
+Company : KANAKALA SAI
+
+"Intern ID" : CT04WE101
+
+"Domain" : Full Stack
+
+"Duration" : 4 Weeks
+
+"Mentor" : Neela Santhosh Kumar
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

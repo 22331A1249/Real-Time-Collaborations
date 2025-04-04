@@ -10,6 +10,9 @@ Company : KANAKALA SAI
 
 "Mentor" : Neela Santhosh Kumar
 
+#  Output
+
+![Image](https://github.com/user-attachments/assets/2bcf62c9-00ee-43d5-b6e1-7d055af09b11)
 
 
 
